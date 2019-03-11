@@ -1,0 +1,1106 @@
+Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+18782981.1075855378110.JavaMail.evans@thyme - CARDINAL
+14 May 2001 - DATE
+16:39:00 - TIME
+-0700 (PDT) - WORK_OF_ART
+tim.belden@enron.com Subject - ORG
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Tim Belden - PERSON
+Tim Belden - PERSON
+X - PERSON
+\\Phillip_Allen_Jan2002_1\\Allen - PERSON
+Phillip K.\\'Sent Mail - ORG
+Allen-P X-FileName - PERSON
+Non-Privileged).pst - PERSON
+Ryan Prindiville - PERSON
+Australian - NORP
+Ryan Prindiville12345 - PERSON
+8104081508)	 - DATE
+53 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+15464986.1075855378456.JavaMail.evans@thyme - CARDINAL
+4 May 2001 - DATE
+13:51:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+John J Lavorato - PERSON
+John J Lavorato - PERSON
+ENRON@enronXgate@ENRON - GPE
+\\Phillip_Allen_Jan2002_1\\Allen - PERSON
+Phillip K.\\'Sent Mail - ORG
+Allen-P X-FileName - PERSON
+Non-Privileged).pst Traveling - ORG
+Austin - PERSON
+Phillip - PERSON
+London - GPE
+Asians - NORP
+Phillip - PERSON
+6 - CARDINAL
+May 1999 - DATE
+47 - CARDINAL
+
+ - GPE
+	Internal	D:/MachineL - ORG
+Date - GPE
+18 Oct 2000 - DATE
+03:00:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Leah Van Arsdall X-cc - PERSON
+\\Phillip_Allen_Dec2000\\Notes - GPE
+Allen-P X-FileName - PERSON
+12 - CARDINAL
+Pivot Street - FAC
+Chicago - GPE
+58 - CARDINAL
+2016-12 - CARDINAL
+	Internal	D:/MachineL - ORG
+Date - PERSON
+Mon - PERSON
+23 Oct 2000 - DATE
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Randall - PERSON
+Gay X-cc - PERSON
+\\Phillip_Allen_Dec2000\\Notes - NORP
+Allen-P X-FileName - PERSON
+American - NORP
+Patti S - PERSON
+Phillip - PERSON
+GM Builders - ORG
+Sydney 	 - PERSON
+
+ - GPE
+mail-5.pdf - DATE
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+31 - CARDINAL
+05:07:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Greg Piper X-cc - PERSON
+Allen - PERSON
+Tuesday - DATE
+11:45 - TIME
+Tibetian - NORP
+Alan - PERSON
+Florida - GPE
+325 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+30965995.1075863688265.JavaMail.evans@thyme - CARDINAL
+31 - DATE
+04:17:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Greg Piper X-cc - PERSON
+Allen - PERSON
+Greg - PERSON
+next Tuesday - DATE
+Thursday - DATE
+Phillip Austin	 - PERSON
+99 - CARDINAL
+31 - CARDINAL
+31 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+16254169.1075863688286.JavaMail.evans@thyme> - TIME
+22 - CARDINAL
+Aug 2000 - DATE
+07:44:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+John Shafer X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip Allen - PERSON
+Mike Grigsby - PERSON
+Keith Holst - PERSON
+Monique Sanchez - PERSON
+Frank Ermis - PERSON
+John Lavorato - PERSON
+Phillip Allen New York - PERSON
+New York	 - GPE
+42 - CARDINAL
+
+ - GPE
+	Internal	D:/MachineL - ORG
+	Message-ID - PERSON
+17189699.1075863688308.JavaMail.evans@thyme - CARDINAL
+14 Jul 2000 - DATE
+06:59:00 - TIME
+PRC - GPE
+Mime-Version - ORG
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Joyce Teixeira X-cc - PERSON
+Allen-P X-FileName - PERSON
+between 10 and 11:30 other than - QUANTITY
+Thursday - DATE
+John - PERSON
+4 November.	 - DATE
+23 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+20641191.1075855687472.JavaMail.evans@thyme - CARDINAL
+17 Oct 2000 - DATE
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Mark Scott X-cc - PERSON
+Allen-P X-FileName - PERSON
+Sub - PERSON
+255.255.255.248 - CARDINAL
+DNS - ORG
+151.164.1.8 3 - DATE
+0413 - CARDINAL
+RC - ORG
+David New Jersey	 - PERSON
+534 - CARDINAL
+2016-12 - CARDINAL
+	Internal	D:/MachineL - ORG
+	 - ORG
+Date - PERSON
+Mon - PERSON
+16 Oct 2000 - DATE
+Collar - ORG
+Mime-Version - WORK_OF_ART
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+10/16/2000 01:42 PM - DATE
+Buckner - PERSON
+Buck - PERSON
+10/12/2000 - QUANTITY
+Collar - ORG
+Phillip - PERSON
+75 - CARDINAL
+Microturbine - GPE
+Honeywell - ORG
+1 - CARDINAL
+3 - CARDINAL
+5 - DATE
+7 - DATE
+10 years - DATE
+annual - DATE
+kWh - ORG
+kWh - ORG
+Sempra energy - ORG
+180 - CARDINAL
+60-100 - CARDINAL
+San Diego - GPE
+6-8 hours - TIME
+Microturbine - GPE
+180 - CARDINAL
+227 - CARDINAL
+302 - CARDINAL
+MMcf - ORG
+240 - CARDINAL
+302 - CARDINAL
+MMcf - ORG
+year > - DATE
+Gas - ORG
+May through September - DATE
+San Diego Gas & Electric - ORG
+Buck Buckner - PERSON
+P.E. - GPE
+Business Development and Planning - ORG
+Big Box Retail Sales - ORG
+Honeywell Power Systems, Inc. - ORG
+8725 - DATE
+Pan American Frwy - ORG
+Albuquerque - GPE
+NM - GPE
+505 - CARDINAL
+505 - CARDINAL
+505 - CARDINAL
+888/501-3145 - DATE
+Bruce Sydney - PERSON
+Australia - GPE
+71 - CARDINAL
+
+ - GPE
+	Internal	D:/MachineL - ORG
+	 - ORG
+33076797.1075855687515.JavaMail.evans@thyme - CARDINAL
+16 Oct 2000 - DATE
+Collar - ORG
+Mime-Version - WORK_OF_ART
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Buckner - PERSON
+Buck - PERSON
+ENRON - ORG
+Allen-P X-FileName - PERSON
+Buckner - PERSON
+San Diego - GPE
+Enron Energy Services - ORG
+Enron - ORG
+Zarin Imam - PERSON
+713 - CARDINAL
+Phillip Allen "	 - PERSON
+70 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+Fri - ORG
+13 Oct 2000 - MONEY
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+X - PERSON
+Allen-P X-FileName - PERSON
+Lucy - PERSON
+1 - CARDINAL
+2 - CARDINAL
+Save - ORG
+3 - CARDINAL
+4 - CARDINAL
+5 - CARDINAL
+886 - CARDINAL
+2016-12 - CARDINAL
+	Internal	D:/MachineL - ORG
+	Message-ID - PERSON
+13116875.1075855687561.JavaMail.evans@thyme - CARDINAL
+9 Oct 2000 - DATE
+07:16:00 - TIME
+Consolidated - PERSON
+Mime-Version - PERSON
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Keith Holst X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+10/09/2000 02:16 PM - DATE
+Richard Burchfield - PERSON
+Phillip K Allen - PERSON
+HOU - ORG
+Beth Perlman - PERSON
+HOU/ECT@ECT Subject - ORG
+Consolidated - ORG
+Phillip - PERSON
+Below - PERSON
+first - ORDINAL
+Allan - PERSON
+Keith - PERSON
+Wednesday - DATE
+Wednesday - DATE
+Keith - ORG
+Excel - PRODUCT
+Monday - DATE
+3 - CARDINAL
+Richard ---------------------- - PERSON
+Richard Burchfield - PERSON
+HOU/ECT - ORG
+10/06/2000 08:34 AM - TIME
+Allan Severude 10/05/2000 - PERSON
+06:03 PM - TIME
+Richard Burchfield - PERSON
+HOU - ORG
+Peggy Alix - PERSON
+Russ Severson - PERSON
+HOU - ORG
+Scott Mills/HOU/ - ORG
+Kenny Ha/HOU/ECT@ECT Subject - ORG
+Consolidated - ORG
+three - CARDINAL
+Inclusion - PERSON
+TDS - ORG
+daily - DATE
+monthly - DATE
+monthly - DATE
+Nymex - ORG
+TDS - GPE
+P&L - ORG
+TDS - GPE
+Valuation of Gas Daily - ORG
+months - DATE
+TBD - ORG
+P&L - ORG
+TDS - GPE
+P&L - ORG
+TDS - GPE
+Benchmark - ORG
+TDS - GPE
+Canada - GPE
+Implicit - GPE
+Allan - ORG
+Colleen - PERSON
+tomorrow - DATE
+Andy - PERSON
+76 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+2707340.1075855687584.JavaMail.evans@thyme - PERSON
+9 Oct 2000 - DATE
+Subject - ORG
+Consolidated - ORG
+Mime-Version - PERSON
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Keith Holst X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+10/09/2000 02:00 PM - TIME
+Richard Burchfield - PERSON
+Phillip K Allen - PERSON
+HOU - ORG
+Beth Perlman - PERSON
+HOU/ECT@ECT Subject - ORG
+Consolidated - ORG
+Phillip - PERSON
+Below - PERSON
+first - ORDINAL
+Allan - PERSON
+Keith - PERSON
+Wednesday - DATE
+Wednesday - DATE
+Keith - ORG
+Excel - PRODUCT
+Monday - DATE
+3 - CARDINAL
+Richard ---------------------- - PERSON
+Richard Burchfield - PERSON
+HOU/ECT - ORG
+10/06/2000 08:34 AM - TIME
+Allan Severude 10/05/2000 - PERSON
+06:03 PM - TIME
+Richard Burchfield - PERSON
+HOU - ORG
+Peggy Alix - PERSON
+Russ Severson - PERSON
+HOU - ORG
+Scott Mills/HOU/ - ORG
+Kenny Ha/HOU/ECT@ECT Subject - ORG
+Consolidated - ORG
+three - CARDINAL
+Inclusion - PERSON
+TDS - ORG
+daily - DATE
+monthly - DATE
+monthly - DATE
+Nymex - ORG
+TDS - GPE
+P&L - ORG
+TDS - GPE
+Valuation of Gas Daily - ORG
+months - DATE
+TBD - ORG
+P&L - ORG
+TDS - GPE
+P&L - ORG
+TDS - GPE
+Benchmark - ORG
+TDS - GPE
+Canada - GPE
+Implicit - GPE
+Allan - ORG
+Colleen - PERSON
+tomorrow - DATE
+Andy - PERSON
+8 August - DATE
+40 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+2465689.1075855687605.JavaMail.evans@thyme> - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+David W Delainey - PERSON
+Allen-P X-FileName - PERSON
+Dave - PERSON
+Lucy - PERSON
+7 May. - DATE
+Phillip	 - PERSON
+69 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+1115198.1075855687626.JavaMail.evans@thyme - CARDINAL
+5 Oct 2000 - DATE
+2001 - DATE
+Margin Plan Mime-Version: - EVENT
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Paula Harris X-cc - PERSON
+Allen-P X-FileName - PERSON
+Paula - PERSON
+35 million - CARDINAL
+this year - DATE
+Phillip	240	 - PERSON
+
+ - GPE
+	 - ORG
+	Internal	D:/MachineL - WORK_OF_ART
+4 Oct 2000 - DATE
+09:23:00 - TIME
+Var - PERSON
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Ina Rangel X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+10/04/2000 04:23 PM - DATE
+Enron North America Corp. - ORG
+Airam Arteaga - PRODUCT
+10/04/2000 12:23 PM - TIME
+Phillip K Allen - PERSON
+Thomas A Martin/HOU - PERSON
+Scott Neal - PERSON
+HOU - ORG
+John Arnold - PERSON
+HOU - ORG
+Grant Masson - PERSON
+HOU - ORG
+Ted Murphy - PERSON
+HOU - ORG
+Vladimir Gorny - PERSON
+HOU - ORG
+Frank Hayden - PERSON
+Rita Hennessy - PERSON
+NA/Enron@Enron - ORG
+Ina - GPE
+HOU - ORG
+Laura Harder/Corp/Enron@Enron - ORG
+Kimberly Brown - PERSON
+HOU - ORG
+Araceli Romero/NA/Enron@Enron - ORG
+Kimberly Hillis - PERSON
+HOU/ECT@ect Subject - ORG
+Var - PERSON
+Var - PERSON
+Wednesday, October 11th - DATE
+2:30 - 3:30 Location - TIME
+Rain x.31560	 - PERSON
+132 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+7391389.1075855378477.JavaMail.evans@thyme> - TIME
+4 May 2001 - DATE
+11:26:00 - TIME
+tim.heizenrader@enron.com Subject: - WORK_OF_ART
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Tim Heizenrader - PERSON
+Tim Heizenrader - PERSON
+X - PERSON
+Phillip K.\'Sent Mail - ORG
+Allen-P X-FileName - PERSON
+Non- - PERSON
+Phillip Jamaica	 - PERSON
+25 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	 - ORG
+Date - PERSON
+3 Oct 2000 - DATE
+09:30:00 - TIME
+Westgate Mime-Version - PERSON
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+10/03/2000 04:30 PM - TIME
+George Richards - PERSON
+cbpres@austin.rr.com - PERSON
+10/03/2000 06:35:56 - QUANTITY
+cbpres@austin.rr.com - PERSON
+"Phillip Allen - WORK_OF_ART
+Larry Lewter - PERSON
+Subject - ORG
+Westgate Westgate Enclosed - ORG
+Westgate - ORG
+Investor's Alliance - ORG
+Investor's Alliance - ORG
+San Marcos - GPE
+Westgate - ORG
+San Marcos - PERSON
+Sagewood - ORG
+San Marcos - GPE
+134 - CARDINAL
+2.50 - MONEY
+one - CARDINAL
+only two - CARDINAL
+West San Marcos - LOC
+roughly $1.25 - MONEY
+12-month - ORG
+1.30-$1.40 - MONEY
+12-month - GPE
+300,000 - MONEY
+later today - TIME
+George W. Richards - PERSON
+Creekside Builders - PERSON
+LLC – winmail.dat - ORG
+Patna - GPE
+India - GPE
+Flat - GPE
+number 12 - CARDINAL
+Anand Vihar - ORG
+MG Road - FAC
+Patna – 560089 - FAC
+Indian - NORP
+Amy Singapore - PERSON
+	185	2016-12-31	2016-12-31	2016-12-31
+mail-20.pdf	D:/MachineL - WORK_OF_ART
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+3 Oct 2000 - DATE
+09:15:00 - TIME
+Storage Strategies - ORG
+the West Mime-Version - GPE
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Ina Rangel X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+10/03/2000 04:13 PM - TIME
+06:42 AM - TIME
+Mark Whitt - PERSON
+NA/Enron@Enron - ORG
+Phillip K Allen - PERSON
+HOU - ORG
+Paul - PERSON
+Lucci/NA/Enron@Enron - ORG
+Paul Bieniawski - PERSON
+Corp/Enron@ENRON - ORG
+Tyrell Harrison - PERSON
+NA/Enron@Enron - ORG
+Jean Mrha - PERSON
+NA/Enron@Enron - ORG
+Ina Rangel - PERSON
+HOU - ORG
+Monica Jackson - PERSON
+Storage Strategies - ORG
+Tuesday, Oct. 10th - DATE
+4:00pm - ORG
+EB3270 - CARDINAL
+Storage Strategies - ORG
+British - NORP
+Nancy Hall ENA Denver - FAC
+303-575-6490 - MONEY
+255 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	Message-ID - PERSON
+3 Oct 2000 - DATE
+09:13:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+X - PERSON
+X-Origin - PERSON
+Allen-P X-FileName - PERSON
+Brenda - PERSON
+today - DATE
+second - ORDINAL
+October - DATE
+Lucy - PERSON
+4 May, 1999 - DATE
+4 - CARDINAL
+May, 1989 - DATE
+Phillip Austin	 - PERSON
+455 - CARDINAL
+2016-12 - CARDINAL
+
+ - GPE
+	Message-ID - PERSON
+3 Oct 2000 - DATE
+03:17:00 - TIME
+Subject: Re - WORK_OF_ART
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Steve Touchstone - PERSON
+X - PERSON
+X-Origin - PERSON
+Allen-P X-FileName - PERSON
+Fletch - PERSON
+Jim Washington DC	 - PERSON
+187 - CARDINAL
+30 - CARDINAL
+30 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+	 - ORG
+26575732.1075855687756.JavaMail.evans@thyme> Date - DATE
+2 Oct 2000 - DATE
+02:19:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+BS Stone - ORG
+ENRON - ORG
+Allen-P X-FileName - PERSON
+Brenda - GPE
+second - ORDINAL
+October - DATE
+Florida - GPE
+San Juan - GPE
+Phillip "	 - PERSON
+105 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+28 - CARDINAL
+06:17:00 - TIME
+San Juan - GPE
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Lkuch@mh.com X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+09/28/2000 01:09 PM - DATE
+Phillip K Allen - PERSON
+Liane - PERSON
+yesterday - DATE
+El Paso - GPE
+San Juan - GPE
+monthly - DATE
+September 26 - DATE
+27 - CARDINAL
+4.70-$4.80 - MONEY
+San Juan - GPE
+10 to 15 cents - MONEY
+San Juan - GPE
+September 25 to September 27 - DATE
+Enron - ORG
+EOL - ORG
+Enron - ORG
+three - CARDINAL
+Amerex - PERSON
+APB - ORG
+daily - DATE
+San Juan - GPE
+two - CARDINAL
+1 - CARDINAL
+the 26th & 27th - DATE
+4.75,4,80 - CARDINAL
+4.6375,4.665 - CARDINAL
+those days - DATE
+2 - CARDINAL
+San Juan - GPE
+Socal & Northwest - ORG
+between the end of September - DATE
+October - DATE
+daily - DATE
+monthly - DATE
+only one - CARDINAL
+Enron - ORG
+4.70 - MONEY
+Phillip Allen Dubai	 - PERSON
+496 - CARDINAL
+	Internal	D:/MachineL - WORK_OF_ART
+25140503.1075855687800.JavaMail.evans@thyme> - TIME
+05:56:00 - TIME
+San Juan - GPE
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Jeffrey - PERSON
+Hodge X-cc - PERSON
+Allen-P X-FileName - PERSON
+Liane - PERSON
+yesterday - DATE
+El Paso - GPE
+San Juan - GPE
+monthly - DATE
+September 26 - DATE
+27 - CARDINAL
+4.70-$4.80 - MONEY
+San Juan - GPE
+10 to 15 cents - MONEY
+San Juan - GPE
+September 25 to September 27 - DATE
+Enron - ORG
+EOL - ORG
+Enron - ORG
+three - CARDINAL
+Amerex - PERSON
+APB - ORG
+daily - DATE
+San Juan - GPE
+two - CARDINAL
+1 - CARDINAL
+the 26th & 27th - DATE
+4.75,4,80 - CARDINAL
+4.6375,4.665 - CARDINAL
+those days - DATE
+2 - CARDINAL
+San Juan - GPE
+Joseph Fernandes - PERSON
+that morning - TIME
+Socal & Northwest - ORG
+between the end of September - DATE
+October - DATE
+daily - DATE
+monthly - DATE
+only one - CARDINAL
+Enron - ORG
+4.70 - MONEY
+28 October - DATE
+American - NORP
+Halloween - DATE
+Phillip Allen	 - PERSON
+313 - CARDINAL
+	D:/MachineL - PERSON
+	Internal	D:/MachineL - WORK_OF_ART
+	 - ORG
+19034252.1075855687825.JavaMail.evans@thyme - CARDINAL
+26 - CARDINAL
+09:28:00 - TIME
+kholst@enron.com Subject: Investment Structure Mime-Version - ORG
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+04:28 PM - TIME
+George Richards - PERSON
+cbpres@austin.rr.com - PERSON
+09/26/2000 01:18:45 PM Please - TIME
+Phillip Allen - PERSON
+Larry Lewter - PERSON
+Claudia L. Crocker - PERSON
+Subject: Investment Structure STRUCTURE: - ORG
+LLC - PERSON
+The General Partner - ORG
+1% - PERCENT
+LAND OWNERSHIP & LOANS - ORG
+Creekside - ORG
+INVESTMENT - GPE
+LLC - PERSON
+the estimated 6 month - DATE
+LAND COSTS - ORG
+4,000 - MONEY
+up to 4 months - DATE
+70% - PERCENT
+680,000 - MONEY
+476,000 - MONEY
+monthly - DATE
+3,966 - MONEY
+10% - PERCENT
+annual - DATE
+approximately 1.25% - PERCENT
+IMPROVEMENT LOAN - ORG
+the City of Austin - GPE
+City - PRODUCT
+COA - ORG
+COA - ORG
+90% - PERCENT
+10% - PERCENT
+one year - DATE
+every 90 days - DATE
+6 months - DATE
+75% - PERCENT
+at least $20,000 - MONEY
+as high as $25,000 - MONEY
+15,000 - MONEY
+20,000 - MONEY
+9,000 - MONEY
+2,000 - MONEY
+8,000 - MONEY
+19,000 - MONEY
+0 - MONEY
+4,000 - MONEY
+0-$184,000 - MONEY
+first - ORDINAL
+40 - CARDINAL
+31,000 - MONEY
+13,000 - MONEY
+19,000 - MONEY
+one - CARDINAL
+100% - PERCENT
+70% - PERCENT
+as $10,000 - MONEY
+7,000 - MONEY
+15,000 - MONEY
+992,000 - MONEY
+1,232,645 - MONEY
+241,000 - MONEY
+the Civil Engineer - ORG
+three - CARDINAL
+First - ORDINAL
+Second - ORDINAL
+Third - ORDINAL
+8 - CARDINAL
+70% to 75% - PERCENT
+80% - PERCENT
+95% - PERCENT
+DISBURSEMENTS Disbursements - ORG
+the General Partner - ORG
+third - ORDINAL
+The General Partner - ORG
+Creekside Builders - ORG
+LLC - ORG
+CB - ORG
+15% - PERCENT
+Larry Lewter - PERSON
+CB - ORG
+third - ORDINAL
+present CB - TIME
+Keith - PERSON
+CREEKSIDE PROCEEDURES - ORG
+3 - CARDINAL
+George Richards - PERSON
+Creekside Builders - PERSON
+LLC - winmail.dat - ORG
+	70	2016-12-31	2016-12-31	2016-12-31
+mail-27.pdf	D:/MachineL/mails	Internal	D:/MachineL/mails	 - WORK_OF_ART
+719350.1075855687850.JavaMail.evans@thyme - ORG
+26 - CARDINAL
+09:26:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+04:26 PM - TIME
+George Richards - PERSON
+cbpres@austin.rr.com - PERSON
+09/26/2000 01:18:45 PM Please - TIME
+Phillip Allen - PERSON
+Larry Lewter - PERSON
+Claudia L. Crocker - PERSON
+Subject: Investment Structure STRUCTURE: - ORG
+LLC - PERSON
+The General Partner - ORG
+1% - PERCENT
+LAND OWNERSHIP & LOANS - ORG
+Creekside - ORG
+INVESTMENT - GPE
+LLC - PERSON
+the estimated 6 month - DATE
+LAND COSTS - ORG
+4,000 - MONEY
+up to 4 months - DATE
+70% - PERCENT
+680,000 - MONEY
+476,000 - MONEY
+monthly - DATE
+3,966 - MONEY
+10% - PERCENT
+annual - DATE
+approximately 1.25% - PERCENT
+IMPROVEMENT LOAN - ORG
+the City of Austin - GPE
+City - PRODUCT
+COA - ORG
+COA - ORG
+90% - PERCENT
+10% - PERCENT
+one year - DATE
+every 90 days - DATE
+6 months - DATE
+75% - PERCENT
+at least $20,000 - MONEY
+as high as $25,000 - MONEY
+15,000 - MONEY
+20,000 - MONEY
+9,000 - MONEY
+2,000 - MONEY
+8,000 - MONEY
+19,000 - MONEY
+0 - MONEY
+4,000 - MONEY
+0-$184,000 - MONEY
+first - ORDINAL
+40 - CARDINAL
+31,000 - MONEY
+13,000 - MONEY
+19,000 - MONEY
+one - CARDINAL
+100% - PERCENT
+70% - PERCENT
+as $10,000 - MONEY
+7,000 - MONEY
+15,000 - MONEY
+992,000 - MONEY
+1,232,645 - MONEY
+241,000 - MONEY
+the Civil Engineer - ORG
+CREEKSIDE PROCEEDURES - ORG
+3 - CARDINAL
+Lucy - PERSON
+George Richards - PERSON
+Creekside Builders - PERSON
+LLC - winmail.dat - ORG
+	101	2016-12-31	2016-12-31	2016-12-31
+ - WORK_OF_ART
+	Internal	D:/MachineL - WORK_OF_ART
+10523086.1075855687873.JavaMail.evans@thyme - MONEY
+26 - CARDINAL
+07:01:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Ina Rangel X-cc - PERSON
+Allen-P X-FileName - PERSON
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Richard Burchfield Sent - PERSON
+Cindy Cicchetti Start - ORG
+10/03/2000 - CARDINAL
+02:30 PM - TIME
+10/03/2000 - CARDINAL
+03:30 PM - TIME
+HOU - ORG
+HOU - ORG
+HOU - ORG
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Richard Burchfield Sent - PERSON
+Cindy Cicchetti Start - ORG
+10/03/2000 - CARDINAL
+02:30 PM - TIME
+10/03/2000 - CARDINAL
+03:30 PM - TIME
+HOU - ORG
+HOU - ORG
+HOU - ORG
+Status - ORG
+Fletcher J Sturm - - ORG
+Scott Neal - - PERSON
+Allan Severude - PERSON
+Scott Mills -> - PERSON
+Russ Severson -> - PERSON
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Richard Burchfield Sent - PERSON
+Cindy Cicchetti Start - ORG
+09/27/2000 - CARDINAL
+02:00 PM - TIME
+09/27/2000 - CARDINAL
+a weekend - DATE
+Phillip K Allen - PERSON
+HOU - ORG
+HOU - ORG
+Scott Mills/HOU/ - ORG
+Allan Severude - PERSON
+HOU - ORG
+Colleen Sullivan - PERSON
+Russ Severson - PERSON
+HOU - ORG
+Jayant Krishnaswamy - PERSON
+HOU - ORG
+Russell Long/HOU/ECT@ECT - ORG
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Richard Burchfield Sent - PERSON
+Cindy Cicchetti Start - ORG
+09/27/2000 - CARDINAL
+02:00 PM - TIME
+09/27/2000 - CARDINAL
+a weekend - DATE
+Phillip K Allen - PERSON
+HOU - ORG
+HOU - ORG
+Scott Mills/HOU/ - ORG
+Allan Severude - PERSON
+HOU - ORG
+Colleen Sullivan - PERSON
+Russ Severson - PERSON
+HOU - ORG
+Jayant Krishnaswamy - PERSON
+HOU - ORG
+Russell Long/HOU/ECT@ECT - ORG
+Status - ORG
+Phillip K Allen -> - PERSON
+Scott Mills - PERSON
+Allan Severude - PERSON
+Jeffrey C Gossett -> - PERSON
+Colleen Sullivan -> - PERSON
+Russ Severson - - PERSON
+Jayant Krishnaswamy -> - PERSON
+Russell Long -> - PERSON
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Richard Burchfield Sent - PERSON
+Cindy Cicchetti Start - ORG
+09/28/2000 - CARDINAL
+01:00 PM - TIME
+09/28/2000 - CARDINAL
+a weekend - DATE
+HOU - ORG
+HOU - ORG
+HOU - ORG
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Richard Burchfield Sent - PERSON
+Cindy Cicchetti Start - ORG
+09/28/2000 - CARDINAL
+01:00 PM - TIME
+09/28/2000 - CARDINAL
+a weekend - DATE
+HOU - ORG
+HOU - ORG
+HOU - ORG
+Status - ORG
+Fletcher J Sturm - - ORG
+Scott Neal - - PERSON
+Allan Severude - PERSON
+Scott Mills -> - PERSON
+Russ Severson -> - PERSON
+Phillip K Allen - PERSON
+02:00 PM - TIME
+Cindy Cicchetti - LOC
+10:38 AM - TIME
+Phillip K Allen - PERSON
+HOU - ORG
+Hunter S Shively/HOU/ - ORG
+Scott Mills/HOU/ - ORG
+Allan Severude - PERSON
+HOU - ORG
+Jeffrey C Gossett - PERSON
+Colleen Sullivan - PERSON
+Russ Severson - PERSON
+HOU - ORG
+Jayant Krishnaswamy - PERSON
+HOU - ORG
+Russell Long/HOU/ - ORG
+4:00 - TIME
+2601 - DATE
+Notes - PRODUCT
+Leopald Fitz London - PERSON
+UK - GPE
+	118	 - PERSON
+2016-12-31	 - DATE
+8572706.1075855378498.JavaMail.evans@thyme> - TIME
+3 May 2001 - DATE
+15:57:00 - TIME
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+X - PERSON
+Phillip K.\'Sent Mail - ORG
+Allen-P X-FileName - PERSON
+Non-Privileged).pst Reagan - PERSON
+some 1 - CARDINAL
+12 - CARDINAL
+Kipp Flores - ORG
+FHA - ORG
+Asian - NORP
+Phillip Queens - PERSON
+Canada - GPE
+105 - CARDINAL
+2016-12 - CARDINAL
+	Internal	D:/MachineL - ORG
+	Message-ID - PERSON
+26 - CARDINAL
+1.0 - CARDINAL
+7bit - CARDINAL
+Phillip K Allen X-To - PERSON
+Cindy Cicchetti X-cc - PERSON
+Allen-P X-FileName - PERSON
+John - PERSON
+british - NORP
+Allen - PERSON
+9 December - DATE

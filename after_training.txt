@@ -1,0 +1,30 @@
+0: {entity: "{'entities': [(21, 23, 'LOCATION')]}", mention: "UK", sentence: "Leopald Fitz London, UK"}
+1: {entity: "{'entities': [(325, 330, 'LOCATION')]}", mention: "Cindy", sentence: "Message-ID: <29665600.1075855687895.JavaMail.evans…n.nsf Nymex expiration is during this time frame."}
+2: {entity: "{'entities': [(331, 340, 'LOCATION')]}", mention: "Cicchetti", sentence: "Message-ID: <29665600.1075855687895.JavaMail.evans…n.nsf Nymex expiration is during this time frame."}
+3: {entity: "{'entities': [(144, 146, 'LOCATION')]}", mention: "cc", sentence: "Message-ID: <29665600.1075855687895.JavaMail.evans…n.nsf Nymex expiration is during this time frame."}
+4: {entity: "{'entities': [(23, 28, 'LOCATION')]}", mention: "India", sentence: "Phillip K Allen Delhi, India"}
+5: {entity: "{'entities': [(14, 17, 'LOCATION')]}", mention: "New", sentence: "Phillip Allen New York, New York"}
+6: {entity: "{'entities': [(18, 22, 'LOCATION')]}", mention: "York", sentence: "Phillip Allen New York, New York"}
+7: {entity: "{'entities': [(174, 177, 'LOCATION')]}", mention: "PRC", sentence: "Message-ID: <17189699.1075863688308.JavaMail.evans…morning between 10 and 11:30 other than Thursday?"}
+8: {entity: "{'entities': [(552, 559, 'LOCATION')]}", mention: "Florida", sentence: ""Message-ID: <26575732.1075855687756.JavaMail.evan…I am currently in Florida for a business meeting."}
+9: {entity: "{'entities': [(155, 166, 'LOCATION')]}", mention: "Albuquerque", sentence: "> > Buck Buckner, P.E., MBA > Manager, Business De…20-4129 > 888/501-3145 > Bruce Sydney, Australia""}
+10: {entity: "{'entities': [(254, 263, 'LOCATION')]}", mention: "Australia", sentence: "> > Buck Buckner, P.E., MBA > Manager, Business De…20-4129 > 888/501-3145 > Bruce Sydney, Australia""}
+11: {entity: "{'entities': [(158, 161, 'LOCATION')]}", mention: "San", sentence: "Message-ID: <15294346.1075855687778.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+12: {entity: "{'entities': [(162, 166, 'LOCATION')]}", mention: "Juan", sentence: "Message-ID: <15294346.1075855687778.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+13: {entity: "{'entities': [(167, 172, 'LOCATION')]}", mention: "Index", sentence: "Message-ID: <15294346.1075855687778.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+14: {entity: "{'entities': [(173, 177, 'LOCATION')]}", mention: "Mime", sentence: "Message-ID: <15294346.1075855687778.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+15: {entity: "{'entities': [(178, 185, 'LOCATION')]}", mention: "Version", sentence: "Message-ID: <15294346.1075855687778.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+16: {entity: "{'entities': [(130, 133, 'LOCATION')]}", mention: "San", sentence: "It appears that a single buyer entered the marketp…ove market prices ($4.70-$4.80) for San Juan gas."}
+17: {entity: "{'entities': [(134, 138, 'LOCATION')]}", mention: "Juan", sentence: "It appears that a single buyer entered the marketp…ove market prices ($4.70-$4.80) for San Juan gas."}
+18: {entity: "{'entities': [(83, 86, 'LOCATION')]}", mention: "San", sentence: "Additionally, these trades are out of line with the associated financial swaps for San Juan."}
+19: {entity: "{'entities': [(87, 91, 'LOCATION')]}", mention: "Juan", sentence: "Additionally, these trades are out of line with the associated financial swaps for San Juan."}
+20: {entity: "{'entities': [(558, 561, 'LOCATION')]}", mention: "San", sentence: ""Message-ID: <33076797.1075855687515.JavaMail.evan… Energy Services is the appropriate Enron entity."}
+21: {entity: "{'entities': [(562, 567, 'LOCATION')]}", mention: "Diego", sentence: ""Message-ID: <33076797.1075855687515.JavaMail.evan… Energy Services is the appropriate Enron entity."}
+22: {entity: "{'entities': [(169, 172, 'LOCATION')]}", mention: "San", sentence: "Message-ID: <25140503.1075855687800.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+23: {entity: "{'entities': [(173, 177, 'LOCATION')]}", mention: "Juan", sentence: "Message-ID: <25140503.1075855687800.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+24: {entity: "{'entities': [(178, 183, 'LOCATION')]}", mention: "Index", sentence: "Message-ID: <25140503.1075855687800.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+25: {entity: "{'entities': [(184, 188, 'LOCATION')]}", mention: "Mime", sentence: "Message-ID: <25140503.1075855687800.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+26: {entity: "{'entities': [(189, 196, 'LOCATION')]}", mention: "Version", sentence: "Message-ID: <25140503.1075855687800.JavaMail.evans…to manipulate the El Paso San Juan monthly index."}
+27: {entity: "{'entities': [(572, 577, 'LOCATION')]}", mention: "Cindy", sentence: "Message-ID: <10523086.1075855687873.JavaMail.evans…n (if the date occurs on a weekend the meeting )."}
+28: {entity: "{'entities': [(578, 587, 'LOCATION')]}", mention: "Cicchetti", sentence: "Message-ID: <10523086.1075855687873.JavaMail.evans…n (if the date occurs on a weekend the meeting )."}
+29: {entity: "{'entities': [(588, 593, 'LOCATION')]}", mention: "Start", sentence: "Message-ID: <10523086.1075855687873.JavaMail.evans…n (if the date occurs on a weekend the meeting )."}
