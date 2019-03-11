@@ -28,16 +28,6 @@ def train(model, file_name, output_dir ,n_iter=100):
     for index,rows in df.iterrows():
         TRAIN_DATA.append((rows['sentence'],ast.literal_eval(rows['entity'])))
 
-
-
-    # TRAIN_DATA = [
-    #     ('Who is Shaka Khan?', {'entities': [(7, 17, 'PERSON')]}),
-    #     ('I like London and Berlin.', {'entities': [(7, 13, 'LOC'), (18, 24, 'LOC')]})
-    #     ('Who is Akshay Verma?', {'entities': [(0, 12, 'PERSON')]})]
-
-    # TODO: research what is happening here
-    # create the built-in pipeline components and add them to the pipeline
-    # nlp.create_pipe works for built-ins that are registered with spaCy
     if 'ner' not in nlp.pipe_names:
         ner = nlp.create_pipe('ner')
         nlp.add_pipe(ner, last=True)
@@ -52,12 +42,9 @@ def train(model, file_name, output_dir ,n_iter=100):
            
             ner.add_label(ent[2]) 
             
-
-    # TODO: research what is happening here.astype(str)
     # get names of other pipes to disable them during training
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']
     with nlp.disable_pipes(*other_pipes):  # only train NER
-        optimizer = nlp.begin_training()
         for itn in range(n_iter):
             random.shuffle(TRAIN_DATA)
             losses = {}
